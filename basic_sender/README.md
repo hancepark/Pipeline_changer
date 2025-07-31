@@ -1,2 +1,2 @@
 # Pipeline_changer
-change pipeline smoothly.
+It changes pipeline's audio codec smoothly.
